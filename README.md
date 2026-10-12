@@ -4,8 +4,6 @@ An end-to-end analytics project on **105,000+ real residential property sales** 
 
 **Tools:** Python (pandas) · SQL Server (T-SQL) · Power BI (DAX)
 
-![Dashboard](images/dashboard.png)
-
 ---
 
 ## Business questions
@@ -115,4 +113,4 @@ The raw and cleaned CSV files are not included because of their size. Download t
 ---
 
 **Author:** Rakesh Nagesh Rao · Data Analyst / BI Developer
-[LinkedIn](https://www.linkedin.com/in/your-profile) · your.email@example.com
+[LinkedIn](www.linkedin.com/in/rakesh-rao-b01a51210) · rakesh2025rao@gmail.com

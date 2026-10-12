@@ -113,4 +113,4 @@ The raw and cleaned CSV files are not included because of their size. Download t
 ---
 
 **Author:** Rakesh Nagesh Rao · Data Analyst / BI Developer
-[LinkedIn](www.linkedin.com/in/rakesh-rao-b01a51210) · rakesh2025rao@gmail.com
+[LinkedIn]([www.linkedin.com/in/rakesh-rao-b01a51210](https://www.linkedin.com/in/rakesh-rao-b01a51210/?isSelfProfile=true)) · rakesh2025rao@gmail.com
